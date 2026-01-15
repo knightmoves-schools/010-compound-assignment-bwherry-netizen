@@ -12,16 +12,17 @@ public class Calculator
 
     public void Calculate(){
         
-        int Addition += 5;
+        Addition += 5;
         
-        int Subtraction -= 1;
+        Subtraction -= 1;
         
-        int Multiplication *= 7;
+        Multiplication *= 7;
         
-        int Division /= 2;
+        Division /= 2;
         
     }
 }
+
 
 
 
